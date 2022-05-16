@@ -5,5 +5,5 @@ Machine-learning techniques have become fundamental in high-energy physics and, 
 
 
 
-Note: to run the W' example, you need the following file from https://zenodo.org/record/6466204#.YoIevTnMJH4:
+Note: to run the W' example you need the following file from https://zenodo.org/record/6466204#.YoIevTnMJH4:
 events_anomalydetection_v2.features.h5
